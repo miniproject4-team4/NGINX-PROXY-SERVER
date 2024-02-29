@@ -1,0 +1,186 @@
+
+29_Feb_2024_09_34_43:
+CONTAINER ID   NAME       CPU %     MEM USAGE / LIMIT    MEM %     NET I/O           BLOCK I/O   PIDS
+468a6b7547da   ng-proxy   2.44%     13.9MiB / 7.625GiB   0.18%     38.7MB / 38.3MB   0B / 0B     9
+
+29_Feb_2024_09_34_45:
+CONTAINER ID   NAME       CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O   PIDS
+468a6b7547da   ng-proxy   2.75%     13.96MiB / 7.625GiB   0.18%     39.1MB / 38.8MB   0B / 0B     9
+
+29_Feb_2024_09_34_48:
+CONTAINER ID   NAME       CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+468a6b7547da   ng-proxy   2.67%     14MiB / 7.625GiB    0.18%     39.6MB / 39.3MB   0B / 0B     9
+
+29_Feb_2024_09_34_50:
+CONTAINER ID   NAME       CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O   PIDS
+468a6b7547da   ng-proxy   2.63%     13.84MiB / 7.625GiB   0.18%     40.1MB / 39.7MB   0B / 0B     9
+
+29_Feb_2024_09_34_53:
+CONTAINER ID   NAME       CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O   PIDS
+468a6b7547da   ng-proxy   3.11%     13.91MiB / 7.625GiB   0.18%     40.7MB / 40.4MB   0B / 0B     9
+
+29_Feb_2024_09_34_56:
+CONTAINER ID   NAME       CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O   PIDS
+468a6b7547da   ng-proxy   3.44%     14.14MiB / 7.625GiB   0.18%     41.4MB / 41MB   0B / 0B     9
+
+29_Feb_2024_09_34_58:
+CONTAINER ID   NAME       CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O   PIDS
+468a6b7547da   ng-proxy   3.21%     14.07MiB / 7.625GiB   0.18%     42.1MB / 41.7MB   0B / 0B     9
+
+29_Feb_2024_09_35_01:
+CONTAINER ID   NAME       CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O   PIDS
+468a6b7547da   ng-proxy   3.37%     13.91MiB / 7.625GiB   0.18%     42.9MB / 42.4MB   0B / 0B     9
+
+29_Feb_2024_09_35_03:
+CONTAINER ID   NAME       CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O   PIDS
+468a6b7547da   ng-proxy   3.52%     13.93MiB / 7.625GiB   0.18%     43.6MB / 43.1MB   0B / 0B     9
+
+29_Feb_2024_09_35_06:
+CONTAINER ID   NAME       CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O   PIDS
+468a6b7547da   ng-proxy   3.53%     14.02MiB / 7.625GiB   0.18%     44.3MB / 43.9MB   0B / 0B     9
+
+29_Feb_2024_09_35_08:
+CONTAINER ID   NAME       CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O   PIDS
+468a6b7547da   ng-proxy   3.26%     13.97MiB / 7.625GiB   0.18%     45.1MB / 44.6MB   0B / 0B     9
+
+29_Feb_2024_09_35_11:
+CONTAINER ID   NAME       CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O   PIDS
+468a6b7547da   ng-proxy   3.35%     13.93MiB / 7.625GiB   0.18%     45.8MB / 45.4MB   0B / 0B     9
+
+29_Feb_2024_09_35_13:
+CONTAINER ID   NAME       CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O   PIDS
+468a6b7547da   ng-proxy   3.34%     14.04MiB / 7.625GiB   0.18%     46.6MB / 46.1MB   0B / 0B     9
+
+29_Feb_2024_09_35_16:
+CONTAINER ID   NAME       CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O   PIDS
+468a6b7547da   ng-proxy   3.08%     13.92MiB / 7.625GiB   0.18%     47.3MB / 46.8MB   0B / 0B     9
+
+29_Feb_2024_09_35_18:
+CONTAINER ID   NAME       CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O   PIDS
+468a6b7547da   ng-proxy   3.71%     14.03MiB / 7.625GiB   0.18%     48MB / 47.6MB   0B / 0B     9
+
+29_Feb_2024_09_35_21:
+CONTAINER ID   NAME       CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O   PIDS
+468a6b7547da   ng-proxy   3.74%     13.95MiB / 7.625GiB   0.18%     48.8MB / 48.3MB   0B / 0B     9
+
+29_Feb_2024_09_35_23:
+CONTAINER ID   NAME       CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O   PIDS
+468a6b7547da   ng-proxy   3.46%     13.93MiB / 7.625GiB   0.18%     49.5MB / 49.1MB   0B / 0B     9
+
+29_Feb_2024_09_35_26:
+CONTAINER ID   NAME       CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O   PIDS
+468a6b7547da   ng-proxy   3.25%     13.93MiB / 7.625GiB   0.18%     50.2MB / 49.7MB   0B / 0B     9
+
+29_Feb_2024_09_35_28:
+CONTAINER ID   NAME       CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O   PIDS
+468a6b7547da   ng-proxy   3.62%     14.02MiB / 7.625GiB   0.18%     51MB / 50.5MB   0B / 0B     9
+
+29_Feb_2024_09_35_31:
+CONTAINER ID   NAME       CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O   PIDS
+468a6b7547da   ng-proxy   3.55%     13.98MiB / 7.625GiB   0.18%     51.8MB / 51.2MB   0B / 0B     9
+
+29_Feb_2024_09_35_34:
+CONTAINER ID   NAME       CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+468a6b7547da   ng-proxy   3.79%     14MiB / 7.625GiB    0.18%     52.4MB / 51.9MB   0B / 0B     9
+
+29_Feb_2024_09_35_36:
+CONTAINER ID   NAME       CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O   PIDS
+468a6b7547da   ng-proxy   3.43%     13.92MiB / 7.625GiB   0.18%     53.2MB / 52.7MB   0B / 0B     9
+
+29_Feb_2024_09_35_39:
+CONTAINER ID   NAME       CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O   PIDS
+468a6b7547da   ng-proxy   3.66%     13.96MiB / 7.625GiB   0.18%     54MB / 53.4MB   0B / 0B     9
+
+29_Feb_2024_09_35_41:
+CONTAINER ID   NAME       CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O   PIDS
+468a6b7547da   ng-proxy   3.50%     13.91MiB / 7.625GiB   0.18%     54.7MB / 54.1MB   0B / 0B     9
+
+29_Feb_2024_09_35_44:
+CONTAINER ID   NAME       CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O   PIDS
+468a6b7547da   ng-proxy   3.31%     13.96MiB / 7.625GiB   0.18%     55.5MB / 54.9MB   0B / 0B     9
+
+29_Feb_2024_09_35_46:
+CONTAINER ID   NAME       CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O   PIDS
+468a6b7547da   ng-proxy   3.80%     13.93MiB / 7.625GiB   0.18%     56.3MB / 55.7MB   0B / 0B     9
+
+29_Feb_2024_09_35_49:
+CONTAINER ID   NAME       CPU %     MEM USAGE / LIMIT    MEM %     NET I/O         BLOCK I/O   PIDS
+468a6b7547da   ng-proxy   3.72%     13.9MiB / 7.625GiB   0.18%     57MB / 56.4MB   0B / 0B     9
+
+29_Feb_2024_09_35_51:
+CONTAINER ID   NAME       CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O   PIDS
+468a6b7547da   ng-proxy   3.76%     14.01MiB / 7.625GiB   0.18%     57.8MB / 57.2MB   0B / 0B     9
+
+29_Feb_2024_09_35_54:
+CONTAINER ID   NAME       CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O   PIDS
+468a6b7547da   ng-proxy   3.72%     14.08MiB / 7.625GiB   0.18%     58.6MB / 57.9MB   0B / 0B     9
+
+29_Feb_2024_09_35_56:
+CONTAINER ID   NAME       CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O   PIDS
+468a6b7547da   ng-proxy   3.48%     13.92MiB / 7.625GiB   0.18%     59.3MB / 58.6MB   0B / 0B     9
+
+29_Feb_2024_09_35_59:
+CONTAINER ID   NAME       CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O   PIDS
+468a6b7547da   ng-proxy   3.50%     14.04MiB / 7.625GiB   0.18%     60.1MB / 59.4MB   0B / 0B     9
+
+29_Feb_2024_09_36_01:
+CONTAINER ID   NAME       CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O   PIDS
+468a6b7547da   ng-proxy   3.66%     13.92MiB / 7.625GiB   0.18%     60.8MB / 60.2MB   0B / 0B     9
+
+29_Feb_2024_09_36_04:
+CONTAINER ID   NAME       CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O   PIDS
+468a6b7547da   ng-proxy   4.17%     13.91MiB / 7.625GiB   0.18%     61.6MB / 60.9MB   0B / 0B     9
+
+29_Feb_2024_09_36_07:
+CONTAINER ID   NAME       CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O   PIDS
+468a6b7547da   ng-proxy   3.41%     13.92MiB / 7.625GiB   0.18%     62.3MB / 61.6MB   0B / 0B     9
+
+29_Feb_2024_09_36_09:
+CONTAINER ID   NAME       CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O   PIDS
+468a6b7547da   ng-proxy   3.96%     14.04MiB / 7.625GiB   0.18%     63.1MB / 62.4MB   0B / 0B     9
+
+29_Feb_2024_09_36_12:
+CONTAINER ID   NAME       CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O   PIDS
+468a6b7547da   ng-proxy   3.74%     13.94MiB / 7.625GiB   0.18%     63.8MB / 63.1MB   0B / 0B     9
+
+29_Feb_2024_09_36_14:
+CONTAINER ID   NAME       CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O   PIDS
+468a6b7547da   ng-proxy   3.77%     14.11MiB / 7.625GiB   0.18%     64.6MB / 63.9MB   0B / 0B     9
+
+29_Feb_2024_09_36_17:
+CONTAINER ID   NAME       CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O   PIDS
+468a6b7547da   ng-proxy   3.83%     14.05MiB / 7.625GiB   0.18%     65.4MB / 64.6MB   0B / 0B     9
+
+29_Feb_2024_09_36_19:
+CONTAINER ID   NAME       CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O   PIDS
+468a6b7547da   ng-proxy   3.88%     14.01MiB / 7.625GiB   0.18%     66.1MB / 65.4MB   0B / 0B     9
+
+29_Feb_2024_09_36_22:
+CONTAINER ID   NAME       CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O   PIDS
+468a6b7547da   ng-proxy   0.02%     13.72MiB / 7.625GiB   0.18%     66.2MB / 65.4MB   0B / 0B     9
+
+29_Feb_2024_09_36_24:
+CONTAINER ID   NAME       CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O   PIDS
+468a6b7547da   ng-proxy   0.00%     13.72MiB / 7.625GiB   0.18%     66.2MB / 65.4MB   0B / 0B     9
+
+29_Feb_2024_09_36_27:
+CONTAINER ID   NAME       CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O   PIDS
+468a6b7547da   ng-proxy   0.00%     13.72MiB / 7.625GiB   0.18%     66.2MB / 65.4MB   0B / 0B     9
+
+29_Feb_2024_09_36_29:
+CONTAINER ID   NAME       CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O   PIDS
+468a6b7547da   ng-proxy   0.02%     13.72MiB / 7.625GiB   0.18%     66.2MB / 65.5MB   0B / 0B     9
+
+29_Feb_2024_09_36_32:
+CONTAINER ID   NAME       CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O   PIDS
+468a6b7547da   ng-proxy   0.00%     13.72MiB / 7.625GiB   0.18%     66.2MB / 65.5MB   0B / 0B     9
+
+29_Feb_2024_09_36_34:
+CONTAINER ID   NAME       CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O   PIDS
+468a6b7547da   ng-proxy   0.00%     13.72MiB / 7.625GiB   0.18%     66.2MB / 65.5MB   0B / 0B     9
+
+29_Feb_2024_09_36_37:
+CONTAINER ID   NAME       CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O   PIDS
+468a6b7547da   ng-proxy   0.00%     13.72MiB / 7.625GiB   0.18%     66.2MB / 65.5MB   0B / 0B     9
+
+29_Feb_2024_09_36_39:
